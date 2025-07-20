@@ -10,7 +10,7 @@ A simple Java program to manage student data (NIM, name, major) using a **Single
 
 ## Run
 ```bash
-javac Main.java MahasiswaRepository.java Mahasiswa.java
+javac Main.java DatabaseMahasiswa.java Mahasiswa.java
 java Main
 ```
 
